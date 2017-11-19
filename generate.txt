@@ -1,0 +1,1 @@
+f8c --namespace TEX --fixt ~/local/share/fix8/schema/FIXT11.xml ~/local/share/fix8/schema/FIX50SP2.xml 
